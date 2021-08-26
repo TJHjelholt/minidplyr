@@ -1,4 +1,8 @@
-#' Title
+#' Test
+#' 
+#' This is the description
+#' 
+#' Here are the details
 #'
 #' @param x 
 #'

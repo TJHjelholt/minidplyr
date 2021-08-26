@@ -2,7 +2,7 @@
 % Please edit documentation in R/test.R
 \name{test}
 \alias{test}
-\title{Title}
+\title{Test}
 \usage{
 test(x)
 }
@@ -13,5 +13,8 @@ test(x)
 
 }
 \description{
-Title
+This is the description
+}
+\details{
+Here are the details
 }
